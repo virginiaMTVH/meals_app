@@ -16,6 +16,10 @@ gem 'puma', '~> 3.11'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+#Faraday is an HTTP client library that abstracts and standardizes 
+#some lower-level HTTP functions and makes it easy to build requests 
+#and get responses from an API.
+gem 'faraday'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
